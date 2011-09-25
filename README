@@ -1,0 +1,6 @@
+cl-figleaf is a minimalist code coverage utility for Common Lisp,
+layered on top of the lisp-unit unit test framework. It's pretty basic
+and only analyzes function coverage. It doesn't analyze coverage by
+statement or condition / decision logic. Despite its limitations, it's
+still quite useful and easy to use.
+
